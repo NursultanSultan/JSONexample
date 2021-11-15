@@ -1,0 +1,26 @@
+{
+  "ID": 1,
+  "Items": [
+    
+    {
+      "ID": 1,
+      "product": {
+        "ID": 1,
+        "Name": "HP",
+        "Price": 1500
+      },
+      "totalPrice": 4500.0,
+      "Count": 3
+    },
+    {
+      "ID": 2,
+      "product": {
+        "ID": 2,
+        "Name": "Acer",
+        "Price": 1300
+      },
+      "totalPrice": 3900.0,
+      "Count": 2
+    }
+  ]
+}
